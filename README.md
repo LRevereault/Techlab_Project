@@ -2,9 +2,8 @@
 
 For this notebook we have drawn some inspirations from the following notebooks:
 
-NLP with Disaster Tweets - EDA, Cleaning and BERT.ipynb
-Disaster NLP: Keras BERT using TFHub
-
+NLP with Disaster Tweets - EDA, Cleaning and BERT.ipynb \
+Disaster NLP: Keras BERT using TFHub \
 Disaster Tweets Evaluation with NLP .ipynb
 
 ## Problem/Challenge to be solved:
